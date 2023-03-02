@@ -13,6 +13,7 @@ let nama = "Alrico",
 
 datadiri(nama,asal,suku)
 kampus(asalkampus,jurusan)
+
 //METHOD FUNCTION
 let x = 2,
 y =4
@@ -43,7 +44,7 @@ const hasil3 = f(x,y)
 console.log(hasil3)
 
 //5
-function f(x,y){
+function f(x){
     return 22/7*2*x
 }
 const hasil4 = f(x,y)
